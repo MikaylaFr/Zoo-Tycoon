@@ -20,4 +20,5 @@ Turtle
   Base Food Cost: 5
   Payoff: Cost * 0.05
   
-UserDefined w/ user defined costs and attributes
+UserDefined w/ user defined costs and attributes.
+Makefile is a Unix-Enviroment compilation tool. If you have a different compiler, do not include the makefile.
